@@ -36,8 +36,6 @@ cc_prebuilt_library {
     visibility: [
         "//external/puffin:__subpackages__",
         "//system/update_engine:__subpackages__",
-        "//apex_available:platform",
-        "//apex_available:anyapex",
     ],
     apex_available: [
         "//apex_available:platform",
