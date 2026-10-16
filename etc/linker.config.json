@@ -1,0 +1,22 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libzucchini.a-x86_64-v2.so",
+		    "libdummy_binary_libzucchini.a.so",
+		    "libdummy_ext_zucchini-x86_64-v2.so",
+		    "libdummy_ext_zucchini.so",
+		    "libdummy_headers_ext_zucchini-x86_64-v2.so",
+		    "libdummy_headers_ext_zucchini.so",
+		    "libzucchini-x86_64-v2.so",
+		    "libzucchini.so"
+	],
+	"requireLibs": [	
+		    "libbase.so",
+		    "libc.so",
+		    "libchrome.so",
+		    "libcutils.so",
+		    "libdl.so",
+		    "liblog.so",
+		    "libm.so"
+	],
+	"visible": true
+}
